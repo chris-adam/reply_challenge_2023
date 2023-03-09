@@ -1,5 +1,0 @@
-0 0 D D D D D
-1 0 D D D D D R
-2 0 R D D D
-4 0 D D
-5 0 D D
